@@ -11,3 +11,16 @@ The github is: <https://github.com/AllenDowney/ThinkStats2>
 [National Survey of Family Growth](http://cdc.gov/nchs/nsfg.htm)
 
 [Behavioral Risk Factor Surveillance System](http://cdc.gov/BRFSS)
+
+## Setup
+
+Create virtual environment
+
+Install packages:
+
+- jupyter
+- pandas
+- numpy
+- scipy
+- matplotlib
+- statsmodels
